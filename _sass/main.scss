@@ -1,15 +1,16 @@
 /* Imports */
 
-@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Sawarabi+Gothic&display=swap');
+// @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+// @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
 
 /* Variables */
 
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Raleway", sans-serif;
-$font-family-numbers: "Josefin Sans", sans-serif;
+$font-family: 'Sawarabi Gothic', sans-serif;;
+$font-family-numbers: 'IBM Plex Mono', monospace;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
