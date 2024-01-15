@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-### VALUES YOU SHOULD CHANGE ###
-
-# GENERAL SITE SETTINGS
-# title: This will be displayed as the website's name in your browser tab.
-<<<<<<< HEAD
-title:　Osaka High Technology Coders
-=======
 title: Osaka High Technology Coders
->>>>>>> bcae59cd05bc72f0b7f94ece111bf766b9725afa
 # description: This will be meta HTML tag content. This can be ignored.
 description: 大阪ハイテクノロジー専門学校 ロボット部プログラミング班
 # baseurl: The subpath of your site
